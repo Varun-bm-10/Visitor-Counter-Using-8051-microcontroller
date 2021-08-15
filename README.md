@@ -1,0 +1,2 @@
+# Visitor-Counter-Using-8051-microcontroller
+Since it is the time of covid, the government has imposed a lot of restrictions for the safety of its public and so the only limited number of people are allowed to attend any ceremony, festivals or any kind of public gathering so this project helps us to control the number of people and helps them to follow rules and regulations and maintain public safety.
